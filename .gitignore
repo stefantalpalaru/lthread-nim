@@ -1,0 +1,6 @@
+*.*~
+vim.session
+nimcache
+lthread_join
+lthread_sleep
+

@@ -1,0 +1,3 @@
+- header processed with:
+    c2nim --dynlib:lthread_lib --cdecl --prefix:lthread_ lthread.h
+
