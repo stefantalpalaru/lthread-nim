@@ -2,6 +2,10 @@
 
 [Nim language][1] bindings for [lthread][2] - a multicore enabled coroutine library written in C.
 
+##license
+
+BSD-2
+
 ##notes
 
 - header processed with:
