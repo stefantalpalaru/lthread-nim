@@ -15,7 +15,7 @@ c2nim --dynlib:lthread_lib --cdecl --prefix:lthread_ lthread.h
 
 ##credits
 
-- author: Stefan Talpalaru <stefantalpalaru@yahoo.com>
+- author: Ștefan Talpalaru <stefantalpalaru@yahoo.com>
 
 - homepage: https://github.com/stefantalpalaru/lthread-nim
 
