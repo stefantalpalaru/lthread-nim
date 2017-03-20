@@ -1,19 +1,19 @@
-##description
+## description
 
 [Nim language][1] bindings for [lthread][2] - a multicore enabled coroutine library written in C.
 
-##license
+## license
 
 BSD-2
 
-##notes
+## notes
 
 - header processed with:
 ```sh
 c2nim --dynlib:lthread_lib --cdecl --prefix:lthread_ lthread.h
 ```
 
-##credits
+## credits
 
 - author: Ștefan Talpalaru <stefantalpalaru@yahoo.com>
 
